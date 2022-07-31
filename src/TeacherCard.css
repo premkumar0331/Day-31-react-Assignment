@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.btn_link{
+    font-size: 24px;
+    font-weight: 500;
+    color:black;
+
+    border-radius: 6px;
+    background-color: gold;
+    padding: 10px;
+    box-shadow: 1px 2px .5px #888888 ;
+
+}
+.btn_link:hover{
+    background-color: greenyellow;
+    transform: scale(-2,-2);
+    color: red;
+}
